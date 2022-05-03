@@ -13,3 +13,9 @@ This analysis was performed using the following metrics:
 
 ## Link to Tableau Presentation
 [Link to CitiBike Analysis on Tableau](https://public.tableau.com/app/profile/nicole.gregory/viz/NYCCitibikeAnalysis_updated/BikeAnalysis)
+
+
+# Let's Go!
+
+![image](https://user-images.githubusercontent.com/98437495/166397157-46464825-46e6-4ce8-96d4-9aac3e2c1c51.png)
+![image](https://user-images.githubusercontent.com/98437495/166397183-5a71bca8-077c-43f2-b054-9ec39f4d34ef.png)
